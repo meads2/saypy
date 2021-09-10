@@ -1,0 +1,1 @@
+from saypy.core import say_hi
