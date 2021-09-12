@@ -1,1 +1,1 @@
-from saypy.core import say_hi
+from saypy.core import say_hi, say_bye
